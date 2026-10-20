@@ -32,7 +32,7 @@
 ### 🗺️ Minha trilha de aprendizado Backend
 
 - [x] Primeiros passos com lógica de programação
-- [ ] Java: fundamentos e programação orientada a objetos
+- [x] Java: fundamentos e programação orientada a objetos
 - [ ] Java Core: coleções, exceções e boas práticas
 - [ ] SQL e PostgreSQL
 - [ ] HTTP, APIs REST e Spring Boot
